@@ -1,5 +1,3 @@
-# Joplin Plugin
+# Joplin Plugin Google Fonts
 
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
-
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
+This is a plugin to allow you to use a selection of fonts from Google Fonts.
